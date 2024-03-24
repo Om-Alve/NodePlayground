@@ -1,0 +1,252 @@
+[
+    {
+      "id": 1,
+      "joke": "Why don't scientists trust atoms? Because they make up everything!",
+      "type": "Science"
+    },
+    {
+      "id": 2,
+      "joke": "Parallel lines have so much in common. It's a shame they'll never meet.",
+      "type": "Math"
+    },
+    {
+      "id": 3,
+      "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+      "type": "Pun"
+    },
+    {
+      "id": 4,
+      "joke": "What do you call a fake noodle? An Impasta.",
+      "type": "Pun"
+    },
+    {
+      "id": 5,
+      "joke": "Why don't eggs tell jokes? They'd crack each other up.",
+      "type": "Pun"
+    },
+    {
+      "id": 6,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "type": "Pun"
+    },
+    {
+      "id": 7,
+      "joke": "What do you call a pig that does karate? A pork chopper.",
+      "type": "Pun"
+    },
+    {
+      "id": 8,
+      "joke": "Why couldn't the bicycle stand up by itself? It was two-tired.",
+      "type": "Pun"
+    },
+    {
+      "id": 9,
+      "joke": "What did the ocean say to the beach? Nothing, it just waved.",
+      "type": "Pun"
+    },
+    {
+      "id": 10,
+      "joke": "Why don't seagulls fly over the bay? Because then they'd be bagels.",
+      "type": "Pun"
+    },
+    {
+      "id": 11,
+      "joke": "What do you call a boomerang that doesn't come back? A stick.",
+      "type": "Pun"
+    },
+    {
+      "id": 12,
+      "joke": "What did one wall say to the other wall? I'll meet you at the corner.",
+      "type": "Pun"
+    },
+    {
+      "id": 13,
+      "joke": "Why don't skeletons fight each other? They don't have the guts.",
+      "type": "Pun"
+    },
+    {
+      "id": 14,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 15,
+      "joke": "Why was the math book sad? Because it had too many problems.",
+      "type": "Math"
+    },
+    {
+      "id": 16,
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+      "type": "Food"
+    },
+    {
+      "id": 17,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "type": "Pun"
+    },
+    {
+      "id": 18,
+      "joke": "Why can't a bicycle stand up by itself? It's two-tired!",
+      "type": "Pun"
+    },
+    {
+      "id": 19,
+      "joke": "Why did the kid throw his clock out the window? Because he wanted to see time fly!",
+      "type": "Pun"
+    },
+    {
+      "id": 20,
+      "joke": "Why did the cookie go to the doctor? Because he felt crummy!",
+      "type": "Pun"
+    },
+    {
+      "id": 21,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 22,
+      "joke": "Why did the math book go to the doctor? Because it had too many problems!",
+      "type": "Math"
+    },
+    {
+      "id": 23,
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+      "type": "Food"
+    },
+    {
+      "id": 24,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "type": "Pun"
+    },
+    {
+      "id": 25,
+      "joke": "Why can't a bicycle stand up by itself? It's two-tired!",
+      "type": "Pun"
+    },
+    {
+      "id": 26,
+      "joke": "Why did the kid throw his clock out the window? Because he wanted to see time fly!",
+      "type": "Pun"
+    },
+    {
+      "id": 27,
+      "joke": "Why did the cookie go to the doctor? Because he felt crummy!",
+      "type": "Pun"
+    },
+    {
+      "id": 28,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 29,
+      "joke": "Why did the math book go to the doctor? Because it had too many problems!",
+      "type": "Math"
+    },
+    {
+      "id": 30,
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+      "type": "Food"
+    },
+    {
+      "id": 31,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "type": "Pun"
+    },
+    {
+      "id": 32,
+      "joke": "Why can't a bicycle stand up by itself? It's two-tired!",
+      "type": "Pun"
+    },
+    {
+      "id": 33,
+      "joke": "Why did the kid throw his clock out the window? Because he wanted to see time fly!",
+      "type": "Pun"
+    },
+    {
+      "id": 34,
+      "joke": "Why did the cookie go to the doctor? Because he felt crummy!",
+      "type": "Pun"
+    },
+    {
+      "id": 35,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 36,
+      "joke": "Why did the math book go to the doctor? Because it had too many problems!",
+      "type": "Math"
+    },
+    {
+      "id": 37,
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+      "type": "Food"
+    },
+    {
+      "id": 38,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "type": "Pun"
+    },
+    {
+      "id": 39,
+      "joke": "Why can't a bicycle stand up by itself? It's two-tired!",
+      "type": "Pun"
+    },
+    {
+      "id": 40,
+      "joke": "Why did the kid throw his clock out the window? Because he wanted to see time fly!",
+      "type": "Pun"
+    },
+    {
+      "id": 41,
+      "joke": "Why did the cookie go to the doctor? Because he felt crummy!",
+      "type": "Pun"
+    },
+    {
+      "id": 42,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 43,
+      "joke": "Why did the math book go to the doctor? Because it had too many problems!",
+      "type": "Math"
+    },
+    {
+      "id": 44,
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing!",
+      "type": "Food"
+    },
+    {
+      "id": 45,
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+      "type": "Pun"
+    },
+    {
+      "id": 46,
+      "joke": "Why can't a bicycle stand up by itself? It's two-tired!",
+      "type": "Pun"
+    },
+    {
+      "id": 47,
+      "joke": "Why did the kid throw his clock out the window? Because he wanted to see time fly!",
+      "type": "Pun"
+    },
+    {
+      "id": 48,
+      "joke": "Why did the cookie go to the doctor? Because he felt crummy!",
+      "type": "Pun"
+    },
+    {
+      "id": 49,
+      "joke": "Why did the computer go to the doctor? Because it had a virus!",
+      "type": "Technology"
+    },
+    {
+      "id": 50,
+      "joke": "Why did the math book go to the doctor? Because it had too many problems!",
+      "type": "Math"
+    }
+  ]
